@@ -12,5 +12,3 @@ data-event - event tracking tag name<br/>
 data-category - category of event<br/>
 data-action - type of interaction<br/>
 data-label - label for event<br/>
-
-<link href="#" data-event="event" data-category="Videos" data-action="click" data-label="mvc overview" data-value="4">Download</link>
